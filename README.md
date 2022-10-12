@@ -11,6 +11,11 @@ The page presents a button, which randomly generate a password that meets certai
 Credits N/A
 
 Deployed link:
+https://vladabolotova.github.io/challenge-3/
+
+
+
+
 
 
 <img width="1440" alt="Screen Shot 2022-10-12 at 4 01 32 PM" src="https://user-images.githubusercontent.com/111080921/195437976-0695dafe-76f3-43ad-b0b7-e708d70bdd5c.png">

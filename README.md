@@ -12,3 +12,5 @@ Credits N/A
 
 Deployed link:
 
+
+<img width="1440" alt="Screen Shot 2022-10-12 at 4 01 32 PM" src="https://user-images.githubusercontent.com/111080921/195437976-0695dafe-76f3-43ad-b0b7-e708d70bdd5c.png">
